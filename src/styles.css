@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('https://images.unsplash.com/photo-1501785888041-af3ef285b470?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9uZG8lMjBkZSUyMHBhbnRhbGxhJTIwZGUlMjBwYWlzYWplfGVufDB8fDB8fHww&auto=format&fit');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
